@@ -91,3 +91,4 @@ draw_line(442,150,442,100,screen,color)
 draw_line(435,100,450,50,screen,color)
 
 save_extension(screen, 'img.png')
+display(screen)
